@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href=""> 📕Clique aqui para ler o artigo</a>
+<a href="https://github.com/murilatorre/prompts-for-article-generate-by-ia/blob/main/.github/assets/Bibliotecas%20em%20Python%20para%20Modelagem%20e%20Simula%C3%A7%C3%A3o%20de%20Dados.pdf"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -18,8 +18,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto: principais bibliotecas em python para modelagem e simulação de dados |
-| conteúdo | Faça um texto para ebook , com foco em bibliotecas em python para modelagem e simulação de dados, listando as principais bibliotecas em python para modelagem e simulação de dados 
-{REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em bibliotecas em python para modelagem e simulação de dados, listando as principais bibliotecas em python para modelagem e simulação de dados {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Lexica.art：
